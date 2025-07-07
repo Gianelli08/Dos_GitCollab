@@ -1,4 +1,4 @@
-# TeamPlay - A Prototype
+Dos Git Collab
 
 ## Contributors
 -Erish M. Gomez

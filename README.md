@@ -1,2 +1,6 @@
-# Dos_GitCollab
-Contributor
+# TeamPlay - A Prototype
+
+## Contributors
+
+- Master Maintainer
+Gianelli Dayandayan
